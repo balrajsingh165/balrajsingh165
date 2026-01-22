@@ -1,5 +1,3 @@
-<img width="1873" height="954" alt="image" src="https://github.com/user-attachments/assets/f6d71085-6497-43d2-960b-61b45ae29afb" /># <div align="center">💫 Backend Developer | System Admin | Cloud Engineer 💫</div>
-
 <br/>🤝 I’m currently working at **Heurist.ai** as an **SDE 1**, solving complex backend challenges and building scalable systems.
 <br/>💬 Ask me about **Python**, **Backend Services**, **Databases**, **AWS**, **GCP**, and more! I specialize in delivering solutions that drive efficiency and performance.
 
